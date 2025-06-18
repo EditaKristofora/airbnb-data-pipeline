@@ -36,3 +36,4 @@ File: `listings.csv.gz` (Amsterdam, most recent)
 
 [Edita Kristofora](https://www.linkedin.com/in/edita-kristofora)  
 Data & Behavioural Science | Python | R | Creative thinker
+_Last updated: June 2025_
